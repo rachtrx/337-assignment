@@ -1,3 +1,4 @@
-"# MATH 337 computational assignment" 
-
-Group members: Alvan Chui and Rachmiel Teo
+# MATH 337 computational assignment
+Group Members: 
+- Alvan Chui 
+- Rachmiel Teo
